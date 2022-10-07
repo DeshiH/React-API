@@ -1,0 +1,30 @@
+.header {
+    display: grid;
+    margin-top: 2%;
+}
+
+.bg-dark {
+    color: rgb(32, 35, 41);
+}
+
+.card-color {
+    background-color: rgb(60, 62, 68) !important;
+}
+
+.card-text {
+    font-family: sans-serif;
+    font-style: inherit;
+}
+
+.card-title {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.rick {
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    align-items: flex-end;
+}
